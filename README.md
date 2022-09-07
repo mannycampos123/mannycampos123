@@ -1,4 +1,6 @@
-Hi 👋 My name is Manny Campos =============================  Data Analyst / Data Engineer ----------------------------  Having a degree in Computer Science and a degree in Business Administration, I am equipped with both the technical skill and the administration skills to have me stand from the crowd. Utilizing SQL for over 4 years, Tableau for over 3 years, and Excel for over 7, I am ready to tackle any data-focused obstacle.  * 🌍  I'm based in Chicago, IL * ✉️  You can contact me at [mannycampos1@gmail.com](mailto:mannycampos1@gmail.com) * 🧠  I'm learning Python - currently intermediate, becoming proficient soon! * 🤝  I'm open to collaborating on Any data-focus problem!
+Hi 👋 My name is Manny Campos 
+Data Analyst / Data Engineer
+Having a degree in Computer Science and a degree in Business Administration, I am equipped with both the technical skill and the administration skills to have me stand from the crowd. Utilizing SQL for over 4 years, Tableau for over 3 years, and Excel for over 7, I am ready to tackle any data-focused obstacle.  * 🌍  I'm based in Chicago, IL * ✉️  You can contact me at [mannycampos1@gmail.com](mailto:mannycampos1@gmail.com) * 🧠  I'm learning Python - currently intermediate, becoming proficient soon! * 🤝  I'm open to collaborating on Any data-focus problem!
 
 ### Skills
 
