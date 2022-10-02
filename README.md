@@ -8,7 +8,7 @@ Having an Associates degree in Computer Science and a Bachelor's degree in Busin
 * 🌍  I'm based in Chicago, IL 
 * ✉️  You can contact me at [mannycampos1@gmail.com](mailto:mannycampos1@gmail.com) 
 * 🧠  I'm learning Python - currently intermediate, becoming proficient soon!
-* 🤝  I'm open to collaborating on Any data-focus problem!
+* 🤝  I'm open to collaborating on any data-focus problem!
 
 ### Skills
 
